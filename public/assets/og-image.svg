@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0B1F44"/>
+  <rect x="80" y="80" width="1040" height="470" rx="24" fill="#0E2756" stroke="#1E3A8A" stroke-width="2"/>
+  <g transform="translate(140, 140)">
+    <rect width="100" height="100" rx="22" fill="#2563EB"/>
+    <path d="M34 26H58C69.0457 26 78 34.9543 78 46C78 57.0457 69.0457 66 58 66H48V76H34V26ZM48 38V54H57C61.4183 54 65 50.4183 65 46C65 41.5817 61.4183 38 57 38H48Z" fill="#FFFFFF"/>
+  </g>
+  <text x="270" y="210" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="64" font-weight="900" fill="#FFFFFF" letter-spacing="-1">Prep<tspan fill="#60A5FA">Karo</tspan></text>
+  <text x="140" y="320" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="600" fill="#E2E8F0" letter-spacing="-0.5">Learn · Practice · Prove · Build · Get Hired</text>
+  <text x="140" y="375" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="400" fill="#94A3B8">Production-Ready LMS & Verified Assessment Platform for Modern Engineers</text>
+  <g transform="translate(140, 430)">
+    <rect width="210" height="44" rx="8" fill="#1E3A8A"/>
+    <text x="105" y="28" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#93C5FD" text-anchor="middle">Interactive Lessons</text>
+  </g>
+  <g transform="translate(370, 430)">
+    <rect width="210" height="44" rx="8" fill="#1E3A8A"/>
+    <text x="105" y="28" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#93C5FD" text-anchor="middle">Timed Assessments</text>
+  </g>
+  <g transform="translate(600, 430)">
+    <rect width="210" height="44" rx="8" fill="#1E3A8A"/>
+    <text x="105" y="28" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#93C5FD" text-anchor="middle">Expert Code Reviews</text>
+  </g>
+  <g transform="translate(830, 430)">
+    <rect width="210" height="44" rx="8" fill="#1E3A8A"/>
+    <text x="105" y="28" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#93C5FD" text-anchor="middle">Verified Credentials</text>
+  </g>
+</svg>

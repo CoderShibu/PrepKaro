@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 52" fill="none">
+  <rect width="52" height="52" rx="12" fill="#0B1F44"/>
+  <path d="M18 13H29.5C35.299 13 40 17.701 40 23.5C40 29.299 35.299 34 29.5 34H25V40H18V13ZM25 20V27H29.5C31.433 27 33 25.433 33 23.5C33 21.567 31.433 20 29.5 20H25Z" fill="#FFFFFF"/>
+  <text x="66" y="34" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="800" fill="#0B1F44" letter-spacing="-0.5">Prep<tspan fill="#2563EB">Karo</tspan></text>
+</svg>
